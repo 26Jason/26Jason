@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @26Jason
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!---
-26Jason/26Jason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
+  
+
+- 🔭 I’m currently working on a music app.  
+  
+
+- 🌱 I’m currently coding in Javascript and C#.  
+  
+
+- ❓  I am in love with coding Discord Bots, I also love helping!.
+  
+
+  
+
+<br/> 
