@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on a Fortnite Hybrid Server.  
   
-
-- 🌱 I’m currently coding in Javascript, C#, C++ and Python.  
-  
-
 - ❓  I am in love with coding .
   
 
